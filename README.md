@@ -29,17 +29,17 @@
 
 # Soal - Soal
 
-* Latihan 1
+* Latihan 1 <br>
 Perhatikan jumlah penumpang Bus terakhir dengan jumlah penumpang maksimum. Mengapa bisa demikian?
 Jawab :
 Karena penambahan penumpang pada program tersebut bersifat increment, dan hasil terakhir dari program tersebut melebihi batas maksimum karena hasil dari bilangan sebelumnya
 
-* Latihan 2
+* Latihan 2 <br>
 Berikan penjelasan point b!
 Jawab :
 Program tersebut hampir sama dengan program pada latihan 1 hanya saja pada program tersebut terdapat if yang apabila jumlah penumpang melebihi kuota maka secara otomatis method addpenumpang tidak akan ditambahkan lagi.
 
-* Latihan 4
+* Latihan 4 <br>
 Penjelasan Program tersebut adalah
 Jawab :
 Program tersebut hampir sama dengan program pada latihan 2 hanya saja pada program tersebut terdapat sebuah assesor pada getpenumpang, apabila password = 24 maka akan muncul output “Password Benar”, dan jika selain 24 maka akan muncul “Password Salah”
